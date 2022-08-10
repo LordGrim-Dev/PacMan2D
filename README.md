@@ -17,7 +17,7 @@ A simple old school pacman created using unity.
 * Each level is creted using Tile pallet provided by unity package. 
 * All level details will be loaded on demand. kept under resource : GameData
 
-##ExternalTools
+## ExternalTools
 * DoTween : http://dotween.demigiant.com/
 * NetonSoft : https://www.newtonsoft.com/json#
 
