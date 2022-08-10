@@ -1,0 +1,47 @@
+{
+    "localisation_details": {
+        "en": {
+            "game_over": "Game Over",
+            "score": "Score",
+            "clk_t_ext": "Click here to Exit...",
+            "clk_t_continue": "Click here to Continue...",
+            "level": "Level - {0}"
+        }
+    },
+    "game_settings": {
+        "total_lives": 3,
+        "level_data": {
+            "1": {
+                "bns_frte_cnt": 3,
+                "power_up_time": 10,
+                "power_up_cooldown": 10,
+                "ghost_data":{
+                    "total_ghost":4,
+                    "mov_speed" :[8,7,6,7]
+                },
+                "scre_data": {
+                    "enemy_kill_pnt": 200,
+                    "bns_frute_pnt": 50,
+                    "pwr_pllt_eat_pnt": 10,
+                    "pallet_eat_pnt": 10
+                }
+            },
+            "2": {
+
+                "bns_frte_cnt": 3,
+                "power_up_time": 5,
+                "power_up_cooldown": 10,
+                "ghost_data":{
+                    "total_ghost":3,
+                    "mov_speed" :[6,5,4]
+                },
+                "scre_data": {
+                    "enemy_kill_pnt": 200,
+                    "bns_frute_pnt": 50,
+                    "pwr_pllt_eat_pnt": 10,
+                    "pallet_eat_pnt": 10
+                }
+            }
+        }
+    }
+}

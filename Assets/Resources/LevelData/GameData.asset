@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08cdf3242fa7bdd4882cca225dc4f775, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  m_LevelMapper:
+  - m_LevelPalletsParent: {fileID: 6200362625600487302, guid: 8663a0396a254d145869fff7e93bce75, type: 3}
+    m_LevelGhostNodePointsHolder: {fileID: 7932087595127698763, guid: 63fdbfab2912b2c4bb9ff278572aac2f, type: 3}
+    m_LevelGridParent: {fileID: 387106470353345674, guid: 4674a721bc6f93d4a9032c0520e103e2, type: 3}
+    m_StartPacManPosition: {x: 0, y: -9.5}
+    m_GhostHomeInsidePosition: {x: 0, y: -0.8}
+    m_GhostHomeOutsidePos: {x: 0, y: 2.3}
+  - m_LevelPalletsParent: {fileID: 3884817446873603662, guid: fba49fedf0347ad488b6c264ced55ca5, type: 3}
+    m_LevelGhostNodePointsHolder: {fileID: 6579452661647541093, guid: 79617c51c3c48d34cbdef4f5bc2596a8, type: 3}
+    m_LevelGridParent: {fileID: 4391081478637325671, guid: 6bd2efe370c840e4f88a536892b3363e, type: 3}
+    m_StartPacManPosition: {x: 0.43, y: -0.44}
+    m_GhostHomeInsidePosition: {x: -5.88, y: 9.33}
+    m_GhostHomeOutsidePos: {x: -8.15, y: 12.39}
+  m_PacMan:
+    m_PacManPrefab: {fileID: 5847851299306660466, guid: 1d7314ea1f31ea6469e677b99b021d34, type: 3}
+    m_FireBallPrefab: {fileID: 7835817864856661299, guid: 71671e22f30eb1143ad02d3caa64217d, type: 3}
+    m_BonusFruitPrefab: {fileID: 6679800698720172470, guid: 49bb56884f9674b4c973f487ba581abc, type: 3}
+  m_AllGhosts:
+    m_Ghosts:
+    - {fileID: 9048632319366867277, guid: 12b6c48716c20e04d9e46529c7af1274, type: 3}
+    - {fileID: 371584338474496672, guid: 73b0241e4a2e2834a99a4f549e46a31e, type: 3}
+    - {fileID: 8027670058846890144, guid: 185b2c43a48c5c34e9676473f428418f, type: 3}
+    - {fileID: 5888996973984065142, guid: 8cf81f89d98de664dba28fa9c78e56b1, type: 3}
