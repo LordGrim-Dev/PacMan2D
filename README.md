@@ -19,7 +19,7 @@ A simple old school pacman created using unity.
 
 ## ExternalTools
 * DoTween : http://dotween.demigiant.com/
-* NetonSoft : https://www.newtonsoft.com/json#
+* NewtonSoft : https://www.newtonsoft.com/json#
 
 ## Contact 
 You can contact Fy- by email: devlordgrim@gmail.com
